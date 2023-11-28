@@ -24,7 +24,7 @@ This report has become a global reference for understanding the factors that con
 ## Tools
 
 - Python;
-- Tableau.
+- [Tableau](https://public.tableau.com/app/profile/goce.panovski/viz/WorldHappinessReport2015-2023_17011847790650/Story1?publish=yes).
 
 ## Key Competencies
 - Data Collection and Open Data Sourcing: Acquired and sourced open data relevant to the analysis;
@@ -35,5 +35,6 @@ This report has become a global reference for understanding the factors that con
 - Unsupervised Machine Learning- Clustering Analysis: Applied clustering algorithms to identify patterns or groups within the data, allowing for a deeper understanding of distinct segments or categories related to Happiness score.
 - Time Series  Analysis: Analyzed time-dependent data, employing time series analysis methods to detect trends, seasonality, and other temporal patterns in the context of World Happiness Report;
 - Creating Dashboards with Tableau: Designing interactive and informative dashboards in Tableau, delivering a comprehensive overview of key insights and trends associated with the World Happiness report for a user-friendly and accessible presentation.
+  The link to the Tableau storyboard can be found [here](https://public.tableau.com/app/profile/goce.panovski/viz/WorldHappinessReport2015-2023_17011847790650/Story1?publish=yes)
 
  
